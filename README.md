@@ -2,6 +2,14 @@
 
 This project focuses on estimating the speed of vehicles using computer vision techniques. The primary goal is to detect vehicles in a video stream and calculate their speeds in real-time.
 
+Since file was too big i had to find another way to showcase my work
+
+here's Kaggle link for my work you can access it here: https://www.kaggle.com/code/helixs/speed-estimation-project-final-farjad
+
+It's an Ipynb file with resukts showcasing
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
